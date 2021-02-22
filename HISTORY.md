@@ -9,3 +9,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-02-20**: Researched launching a token sale (ICO) and Tutor LMS docs  
   _Evidence:_ Google searches 'create an ico', 'tutor lms documentation'
+
+- **2021-02-22**: Researched creating an ERC-20 token  
+  _Evidence:_ Google searches 'create a token erc20', 'create an ico'
