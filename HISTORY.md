@@ -12,3 +12,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-02-22**: Researched creating an ERC-20 token  
   _Evidence:_ Google searches 'create a token erc20', 'create an ico'
+
+- **2021-02-24**: Blockchain in Python research; contacted Dapp University about building the project  
+  _Evidence:_ Google search 'blockchain with python'; sent email to Dapp University (2021-02-24)
