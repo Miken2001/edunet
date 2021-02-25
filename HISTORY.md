@@ -15,3 +15,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-02-24**: Blockchain in Python research; contacted Dapp University about building the project  
   _Evidence:_ Google search 'blockchain with python'; sent email to Dapp University (2021-02-24)
+
+- **2021-02-25**: Concept: blockchain applications in education; Flutter crypto wallet research  
+  _Evidence:_ Google search 'applications of blockchain in education'; YouTube 'Flutter App with Firebase Authentication and Firestore Tutorial - Crypto Wallet'
