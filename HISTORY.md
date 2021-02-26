@@ -18,3 +18,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-02-25**: Concept: blockchain applications in education; Flutter crypto wallet research  
   _Evidence:_ Google search 'applications of blockchain in education'; YouTube 'Flutter App with Firebase Authentication and Firestore Tutorial - Crypto Wallet'
+
+- **2021-02-26**: Concept: blockchain in higher education  
+  _Evidence:_ Google search 'applications of blockchain in education'
