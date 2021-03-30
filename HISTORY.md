@@ -24,3 +24,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-03-09**: Token white paper research  
   _Evidence:_ Google search 'modele white paper ico'
+
+- **2021-03-30**: Researched deploying the token on Binance Smart Chain  
+  _Evidence:_ Google search 'create a token on bsc'
