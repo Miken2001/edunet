@@ -27,3 +27,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-03-30**: Researched deploying the token on Binance Smart Chain  
   _Evidence:_ Google search 'create a token on bsc'
+
+- **2021-04-04**: Token launch research  
+  _Evidence:_ YouTube searches 'ico launch', 'binance ico launch'
