@@ -30,3 +30,6 @@ committed on the day the work happened, because no file from that day survived.
 
 - **2021-04-04**: Token launch research  
   _Evidence:_ YouTube searches 'ico launch', 'binance ico launch'
+
+- **2021-04-08**: Created the Edunet.live WordPress site (local)  
+  _Evidence:_ Local by Flywheel site 'edunetlive' with blogname 'Edunet.live', database dated 2021-04-08
